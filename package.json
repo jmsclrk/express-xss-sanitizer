@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/AhmedAdelFahim/express-xss-sanitizer#readme",
   "dependencies": {
-    "sanitize-html": "git+https://github.com/jmsclrk/sanitize-html.git#master"
+    "sanitize-html": "git+https://github.com/jmsclrk/sanitize-html.git#9050394"
   },
   "devDependencies": {
     "body-parser": "^1.19.0",
